@@ -7,45 +7,36 @@ My main projects are pinned below.
 ## Tech I use
 
 #### Programming Languages
-<table>
-  <tr>
-    <td align="center" width="96"><img src="icons/python.svg" height="48" alt="Python"/><br/><sub>Python</sub></td>
-    <td align="center" width="96"><img src="icons/javascript.svg" height="48" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-    <td align="center" width="96"><img src="icons/rust.svg" height="48" alt="Rust"/><br/><sub>Rust</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="icons/python.svg" width="88" alt="Python"/>&nbsp;
+  <img src="icons/javascript.svg" width="88" alt="JavaScript"/>&nbsp;
+  <img src="icons/rust.svg" width="88" alt="Rust"/>&nbsp;
+</p>
 
 #### AI & Machine Learning
-<table>
-  <tr>
-    <td align="center" width="96"><img src="icons/pytorch.svg" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
-    <td align="center" width="96"><img src="icons/scikitlearn.svg" height="48" alt="scikit-learn"/><br/><sub>scikit-learn</sub></td>
-    <td align="center" width="96"><img src="icons/pandas.svg" height="48" alt="pandas"/><br/><sub>pandas</sub></td>
-    <td align="center" width="96"><img src="icons/numpy.svg" height="48" alt="NumPy"/><br/><sub>NumPy</sub></td>
-    <td align="center" width="96"><img src="icons/huggingface.svg" height="48" alt="Hugging Face"/><br/><sub>Hugging Face</sub></td>
-    <td align="center" width="96"><img src="icons/ollama.svg" height="48" alt="Ollama"/><br/><sub>Ollama</sub></td>
-    <td align="center" width="96"><img src="icons/jupyter.svg" height="48" alt="Jupyter"/><br/><sub>Jupyter</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="icons/pytorch.svg" width="88" alt="PyTorch"/>&nbsp;
+  <img src="icons/scikitlearn.svg" width="88" alt="scikit-learn"/>&nbsp;
+  <img src="icons/pandas.svg" width="88" alt="pandas"/>&nbsp;
+  <img src="icons/numpy.svg" width="88" alt="NumPy"/>&nbsp;
+  <img src="icons/huggingface.svg" width="88" alt="Hugging Face"/>&nbsp;
+  <img src="icons/ollama.svg" width="88" alt="Ollama"/>&nbsp;
+</p>
 
 #### Backend & Databases
-<table>
-  <tr>
-    <td align="center" width="96"><img src="icons/fastapi.svg" height="48" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-    <td align="center" width="96"><img src="icons/postgresql.svg" height="48" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
-    <td align="center" width="96"><img src="icons/oracle.svg" height="48" alt="Oracle"/><br/><sub>Oracle</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="icons/fastapi.svg" width="88" alt="FastAPI"/>&nbsp;
+  <img src="icons/postgresql.svg" width="88" alt="PostgreSQL"/>&nbsp;
+  <img src="icons/oracle.svg" width="88" alt="Oracle"/>&nbsp;
+</p>
 
 #### Tools & Platforms
-<table>
-  <tr>
-    <td align="center" width="96"><img src="icons/docker.svg" height="48" alt="Docker"/><br/><sub>Docker</sub></td>
-    <td align="center" width="96"><img src="icons/cicd.svg" height="48" alt="CI/CD"/><br/><sub>CI/CD</sub></td>
-    <td align="center" width="96"><img src="icons/git.svg" height="48" alt="Git"/><br/><sub>Git</sub></td>
-    <td align="center" width="96"><img src="icons/linux.svg" height="48" alt="Linux"/><br/><sub>Linux</sub></td>
-  </tr>
-</table>
+<p>
+  <img src="icons/docker.svg" width="88" alt="Docker"/>&nbsp;
+  <img src="icons/cicd.svg" width="88" alt="CI/CD"/>&nbsp;
+  <img src="icons/git.svg" width="88" alt="Git"/>&nbsp;
+  <img src="icons/linux.svg" width="88" alt="Linux"/>&nbsp;
+</p>
 
 ## Contact
 
