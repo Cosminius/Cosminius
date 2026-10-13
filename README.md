@@ -22,7 +22,7 @@ My main projects are pinned below.
     <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/scikitlearn/F7931E"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/></picture><br/><sub>scikit-learn</sub></td>
     <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"><img src="https://cdn.simpleicons.org/pandas/E70488" height="40" alt="pandas"/></picture><br/><sub>pandas</sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/><br/><sub>NumPy</sub></td>
-    <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face"/><br/><sub>Hugging Face</sub></td>
+    <td align="center" width="96"><img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face"/><br/><sub>Hugging&nbsp;Face</sub></td>
     <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/white"><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ollama/black"><img src="https://cdn.simpleicons.org/ollama/8B8B8B" height="40" alt="Ollama"/></picture><br/><sub>Ollama</sub></td>
   </tr>
 </table>
