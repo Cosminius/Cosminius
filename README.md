@@ -7,36 +7,27 @@ My main projects are pinned below.
 ## Tech I use
 
 #### Programming Languages
-<p>
-  <img src="icons/python.svg" width="88" alt="Python"/>&nbsp;
-  <img src="icons/javascript.svg" width="88" alt="JavaScript"/>&nbsp;
-  <img src="icons/rust.svg" width="88" alt="Rust"/>&nbsp;
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="Rust"/> &nbsp;&nbsp;&nbsp;
 
 #### AI & Machine Learning
-<p>
-  <img src="icons/pytorch.svg" width="88" alt="PyTorch"/>&nbsp;
-  <img src="icons/scikitlearn.svg" width="88" alt="scikit-learn"/>&nbsp;
-  <img src="icons/pandas.svg" width="88" alt="pandas"/>&nbsp;
-  <img src="icons/numpy.svg" width="88" alt="NumPy"/>&nbsp;
-  <img src="icons/huggingface.svg" width="88" alt="Hugging Face"/>&nbsp;
-  <img src="icons/ollama.svg" width="88" alt="Ollama"/>&nbsp;
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/8B8B8B" height="40" alt="Ollama"/> &nbsp;&nbsp;&nbsp;
 
 #### Backend & Databases
-<p>
-  <img src="icons/fastapi.svg" width="88" alt="FastAPI"/>&nbsp;
-  <img src="icons/postgresql.svg" width="88" alt="PostgreSQL"/>&nbsp;
-  <img src="icons/oracle.svg" width="88" alt="Oracle"/>&nbsp;
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/> &nbsp;&nbsp;&nbsp;
 
 #### Tools & Platforms
-<p>
-  <img src="icons/docker.svg" width="88" alt="Docker"/>&nbsp;
-  <img src="icons/cicd.svg" width="88" alt="CI/CD"/>&nbsp;
-  <img src="icons/git.svg" width="88" alt="Git"/>&nbsp;
-  <img src="icons/linux.svg" width="88" alt="Linux"/>&nbsp;
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> &nbsp;&nbsp;&nbsp;
 
 ## Contact
 
