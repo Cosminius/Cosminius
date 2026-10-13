@@ -18,7 +18,7 @@ My main projects are pinned below.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface" height="40" alt="Hugging Face"/> &nbsp;&nbsp;&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ollama/white"><img src="https://cdn.simpleicons.org/ollama/black" height="40" alt="Ollama"/></picture> &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/> &nbsp;&nbsp;&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/jupyter/F37626"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/></picture> &nbsp;&nbsp;&nbsp;
 
 #### Backend & Databases
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/> &nbsp;&nbsp;&nbsp;
