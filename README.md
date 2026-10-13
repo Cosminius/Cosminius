@@ -1,31 +1,16 @@
-# $ whoami
+# Hi, I'm Cosmin
 
-Hi, I'm **Cosmin** 👋
+Software engineer at Economic Soft Consulting in Cluj-Napoca and MSc student at Babeș-Bolyai University. At work I mostly do backend and data pipelines. At university I work on ML research on knowledge graphs (paper submitted to ICAAR 2026).
 
-- 💼 Software Engineer @ Economic Soft Consulting, Cluj-Napoca: backends and data pipelines for stores and restaurants
-- 🎓 Business Modeling & Distributed Computing MSc student @ Babeș-Bolyai University, Romania
-- 🔬 ML research on knowledge graph completion, paper submitted to ICAAR 2026
-- 🏆 Won the project contest of an Erasmus programme in Cagliari with a Graph RAG vs. Text RAG app
+My main projects are pinned below.
 
-I like to understand why a model works, not just that it works.
-
-## Featured projects
-
-<!-- Replace each REPO_NAME with the real repository name -->
-
-| Project | What it does |
-|---|---|
-| [Cardinality-Gated Reranking for KGC](https://github.com/Cosminius/REPO_NAME) | Tests when a BERT reranker really helps on knowledge graphs, across three datasets |
-| [Oscar RAG](https://github.com/Cosminius/REPO_NAME) | Answers questions about the 2026 Oscars from a knowledge graph or from text, fully local |
-| [Ridership Forecasting](https://github.com/Cosminius/REPO_NAME) | Predicts daily bus and train ridership in Chicago, from SARIMA to LSTMs and WaveNet |
-| [AI-Generated Image Detector](https://github.com/Cosminius/REPO_NAME) | Tells real photos from AI-generated ones with a two-step CNN pipeline |
-
-## What you'll find in my repositories
+## Tech I use
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **AI & Machine Learning**
@@ -53,9 +38,7 @@ I like to understand why a model works, not just that it works.
 
 ## Contact
 
-If you'd like to chat about ML, data or a project idea, you can find me here:
-
 - [LinkedIn](https://linkedin.com/in/rosculet-cosmin)
 - [rosculet.cosmin@yahoo.com](mailto:rosculet.cosmin@yahoo.com)
 
-Thanks for stopping by! 🙂
+Thanks for stopping by!
