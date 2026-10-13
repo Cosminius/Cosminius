@@ -33,6 +33,8 @@ My main projects are pinned below.
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/><br/><sub>Oracle</sub></td>
+    <td align="center" width="96"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/npm/graphdb-workbench@3.5.1/dist/assets/graphdb-logo-light.svg"><source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/npm/graphdb-workbench@3.5.1/dist/assets/graphdb-logo-dark.svg"><img src="https://cdn.jsdelivr.net/npm/graphdb-workbench@3.5.1/dist/assets/graphdb-logo-dark.svg" height="32" alt="GraphDB"/></picture><br/><sub>GraphDB</sub></td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/weaviate.svg" height="40" alt="Weaviate"/><br/><sub>Weaviate</sub></td>
   </tr>
 </table>
 
