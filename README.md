@@ -52,4 +52,3 @@ My main projects are pinned below.
 - [LinkedIn](https://linkedin.com/in/rosculet-cosmin)
 - [rosculet.cosmin@yahoo.com](mailto:rosculet.cosmin@yahoo.com)
 
-Thanks for stopping by!
